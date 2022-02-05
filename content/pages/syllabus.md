@@ -58,40 +58,477 @@ KC=Karen Casciotti
 MKT=Meg Tivey  
 DT=Dierdre Toole
 
-| SES # | TOPICS | KEY DATES | LECTURERS |
-| --- | --- | --- | --- |
-| {{< td-colspan 4 >}}**Introduction**{{< /td-colspan >}} ||||
-| 1 | Overview of the determinants of seawater composition | &nbsp; | SD |
-| {{< td-colspan 4 >}}**Tools for studying marine geochemistry**{{< /td-colspan >}} ||||
-| 2 | Introduction to stable isotopes | &nbsp; | KC |
-| 3 | Introduction to marine radiochemistry | &nbsp; | WM |
-| {{< td-colspan 4 >}}**Physical setting: Atm., ocean circulation, hydrol. cycle**{{< /td-colspan >}} ||||
-| 4 | Atmospheric circulation and water cycle | &nbsp; | SD |
-| 5 | Ocean circulation | Problem set 1 due | SD |
-| {{< td-colspan 4 >}}**Major constituents of seawater and controls**{{< /td-colspan >}} ||||
-| 6 | Major ions and salinity | &nbsp; | SD |
-| 7 | Marine carbonate chemistry | Problem set 2 due | WM |
-| {{< td-colspan 4 >}}**Inputs to and outputs from the ocean**{{< /td-colspan >}} ||||
-| 8 | Rivers and groundwater | &nbsp; | MKT |
-| 9 | Hydrothermal processes | Problem set 3 due | MKT |
-| 10 | Non-conservative processes in estuaries/groundwater/hydrothermal | &nbsp; | MKT |
-| 11 | Gas exchange across the air-sea interface | &nbsp; | SD |
-| 12 | Atmospheric-ocean interaction | Problem set 4 due | DT |
-| &nbsp; | Mid-term | &nbsp; |
-| {{< td-colspan 4 >}}**Biogeochemical cycling in the water column**{{< /td-colspan >}} ||||
-| 13 | Primary production (1) | &nbsp; | SD |
-| 14 | Primary production (2) | &nbsp; | SD |
-| 15 | New, export, and net community production | Problem set 5 due | SD |
-| 16 | Sinking particles and remineralization (1) | &nbsp; | SD |
-| 17 | Sinking particles and remineralization (2) | Problem set 6 due | SD |
-| 18 | Quantifying biogeochemical fluxes and rates | &nbsp; | SD |
-| {{< td-colspan 4 >}}**Biogeochemical cycling in sediments**{{< /td-colspan >}} ||||
-| 19 | Early diagenesis I | Problem set 7 due | KC |
-| 20 | Early diagenesis II and sediment distributions | &nbsp; | KC |
-| {{< td-colspan 4 >}}**Special topics**{{< /td-colspan >}} ||||
-| 21 | Long-term cycles of carbon, oxygen and sulfur | &nbsp; | DT |
-| 22 | P cycle | Problem set 8 due | DT |
-| 23 | N cycle | &nbsp; | KC |
-| 24 | Anthropogenic CO2 (1) | Problem set 9 due | SD |
-| 25 | Anthropogenic CO2 (2) and review | &nbsp; | SD |
-| &nbsp; | Final exam | &nbsp; |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+{{< thopen >}}
+LECTURERS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Introduction**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Overview of the determinants of seawater composition
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+SD
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Tools for studying marine geochemistry**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to stable isotopes
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+KC
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to marine radiochemistry
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+WM
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Physical setting: Atm., ocean circulation, hydrol. cycle**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Atmospheric circulation and water cycle
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+SD
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Ocean circulation
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 due
+{{< tdclose >}}
+{{< tdopen >}}
+SD
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Major constituents of seawater and controls**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Major ions and salinity
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+SD
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Marine carbonate chemistry
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 2 due
+{{< tdclose >}}
+{{< tdopen >}}
+WM
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Inputs to and outputs from the ocean**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Rivers and groundwater
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+MKT
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Hydrothermal processes
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 3 due
+{{< tdclose >}}
+{{< tdopen >}}
+MKT
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Non-conservative processes in estuaries/groundwater/hydrothermal
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+MKT
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Gas exchange across the air-sea interface
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+SD
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Atmospheric-ocean interaction
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 4 due
+{{< tdclose >}}
+{{< tdopen >}}
+DT
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Mid-term
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Biogeochemical cycling in the water column**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Primary production (1)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+SD
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Primary production (2)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+SD
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+New, export, and net community production
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 5 due
+{{< tdclose >}}
+{{< tdopen >}}
+SD
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Sinking particles and remineralization (1)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+SD
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Sinking particles and remineralization (2)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 6 due
+{{< tdclose >}}
+{{< tdopen >}}
+SD
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Quantifying biogeochemical fluxes and rates
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+SD
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Biogeochemical cycling in sediments**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Early diagenesis I
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 7 due
+{{< tdclose >}}
+{{< tdopen >}}
+KC
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Early diagenesis II and sediment distributions
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+KC
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Special topics**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Long-term cycles of carbon, oxygen and sulfur
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+DT
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+P cycle
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 8 due
+{{< tdclose >}}
+{{< tdopen >}}
+DT
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+N cycle
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+KC
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Anthropogenic CO2 (1)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 9 due
+{{< tdclose >}}
+{{< tdopen >}}
+SD
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Anthropogenic CO2 (2) and review
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+SD
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
